@@ -1,0 +1,26 @@
+{
+  "name": "node.js-code-tutorial-work",
+  "version": "1.0.0",
+  "description": "Following along with Node.js reading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumArchive/Node.js-Code-Tutorial-Work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuantumArchive/Node.js-Code-Tutorial-Work/issues"
+  },
+  "homepage": "https://github.com/QuantumArchive/Node.js-Code-Tutorial-Work#readme",
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  },
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
