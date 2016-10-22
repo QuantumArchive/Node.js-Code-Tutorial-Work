@@ -23,8 +23,8 @@ function start(route, handle) {
   //   });
   // };
 
-  http.createServer(onRequest).listen(3000);
+  http.createServer(onRequest).listen(3001);
   console.log('Server has started');
-}
+};
 
 exports.start = start;
